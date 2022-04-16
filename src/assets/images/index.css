@@ -1,0 +1,248 @@
+body {
+    height: 1674px;
+    width: 1446px;
+    left: 302px;
+    top: -335px;
+    border-radius: 0px;
+    background: #77d5c9;  
+}
+.name {
+    position: absolute;
+    width: 230px;
+    height: 36px;
+    left: 662px;
+    top: 40px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 30px;
+    color: #000000;
+}
+.Engineer {
+    position: absolute;
+    width: 106px;
+    height: 22px;
+    left: 662px;
+    top: 105px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 48px;
+    color: #000000;
+}
+.myphoto {
+    padding: 55px 829px 1519px 521px;
+    width: 96px;
+    height: 91px;
+    left: 617px;
+    top: 64px;
+    border-radius: 20px;
+}
+.hrs1 {
+    position: absolute;
+    width: 614px;
+    height: 3px;
+    left: 413px;
+    top: 179px;
+    background: #000000;
+}
+.facts1 {
+    position: absolute;
+    width: 614px;
+    height: 220px;
+    left: 413px;
+    top: 233px;
+    border-radius: 3px;
+    background: #eeecec;
+}
+.facts2 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+}
+.wraper {
+    padding: 0px 0px 10px 10px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 17px;
+    color: #000000;
+}
+.skills {
+    position: absolute;
+    left: 542px;
+    top: 485px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    color: #000000;
+}
+.pictures1 {
+    position: absolute;
+    width: 72px;
+    height: 66px;
+    left: 413px;
+    top: 549px;
+    background: url(image.png);
+}
+.pictures2 {
+    position: absolute;
+    width: 62px;
+    height: 62px;
+    left: 516px;
+    top: 551px;
+    background: url(image.png);
+}
+.pictures3 {
+    position: absolute;
+    width: 38px;
+    height: 59px;
+    left: 609px;
+    top: 550px;
+    background: url(image.png);
+}
+.pictures4 {
+    position: absolute;
+    width: 93px;
+    height: 92px;
+    left: 653px;
+    top: 534px;  
+    background: url(image.png);
+}
+.pictures5 {
+    position: absolute;
+    width: 60px;
+    height: 59px;
+    left: 752px;
+    top: 551px;   
+    background: url(image.png);}
+.pictures6 {
+    position: absolute;   
+    width: 169px;
+    height: 34px;
+    left: 843px;
+    top: 563px;
+    background: url(image.png);
+}
+.certificate {
+    position: absolute;
+    width: 614px;
+    height: 309px;
+    left: 411px;
+    top: 673px;
+    background: #eeecec;
+    border-radius: 3px;
+}
+.certificate1 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;;
+    color: #000000;
+}
+.pictures7 {
+    position: relative;
+    top: 25px;
+    left: 15px;
+    margin: 0px;
+    background: url(image.png);
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    border-radius: 3px;  
+}
+.rectangle {
+    position: absolute;    
+    width: 289px;
+    height: 185px;
+    left: 721px;
+    top: 755px;    
+    margin: 0px;
+    background: #eeecec;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 3px;
+}
+.table {
+    position: absolute;
+    width: 614px;
+    height: 429px;
+    left: 413px;
+    top: 1026px;
+    background: #eeecec;
+    border-radius: 3px;
+}
+.works {
+    font-family: 'Inter';
+    font-style: normal;
+    font-size: 18px;
+    font-weight: 500;
+    letter-spacing: 0em;
+}
+.tables{
+    position: relative;
+    left: 45px;
+    top: 15px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-size: large;
+    width: 529px;
+    height: 200px;
+}
+.hrs2 {
+    position: absolute;
+    width: 614px;
+    height: 3px;
+    left: 413px;
+    top: 1495px;
+    background: #000000;    
+}
+.сontact-with-me {
+    position: absolute;
+    left: 637px;
+    top: 1500px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    color: #000000;
+}
+.number {
+    position: absolute;
+    left: 447px;
+    top: 1550px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+}
+.telegram {
+    position: absolute;
+    left: 640px;
+    top: 1550px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+}
+.gitHub {
+    position: absolute;
+    padding-left: 35px;
+    left: 820px;
+    top: 1550px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+}
